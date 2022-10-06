@@ -5,6 +5,10 @@
 #ifndef CMAKE_GITHUB_ADD_OPERATIONS_H
 #define CMAKE_GITHUB_ADD_OPERATIONS_H
 
+#include <exception>
+#include <stdexcept>
+#include <iostream>
+
 namespace math_git {
 class operations {
 public:
