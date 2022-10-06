@@ -18,6 +18,5 @@ public:
   int sub(const int &a, const int &b);
 };
 };
-}
 
 #endif //CMAKE_GITHUB_ADD_OPERATIONS_H
