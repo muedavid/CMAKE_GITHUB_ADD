@@ -6,7 +6,7 @@
 
 namespace math_git{
 int operations::sum(const int &a, const int &b) {
-  return a + b;
+  return a + b + 2;
 }
 
 int operations::mult(const int &a, const int &b) {

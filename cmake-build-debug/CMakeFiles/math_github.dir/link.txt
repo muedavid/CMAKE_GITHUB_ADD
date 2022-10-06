@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libmath_github.so -o libmath_github.so CMakeFiles/math_github.dir/operations.cpp.o 
