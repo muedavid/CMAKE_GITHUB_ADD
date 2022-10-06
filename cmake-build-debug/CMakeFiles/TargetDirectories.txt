@@ -1,0 +1,3 @@
+/home/david/Documents/CMAKE_GITHUB_ADD/cmake-build-debug/CMakeFiles/math_github.dir
+/home/david/Documents/CMAKE_GITHUB_ADD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/Documents/CMAKE_GITHUB_ADD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
